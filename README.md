@@ -1,2 +1,2 @@
 # Flowchart
-Flowcharts for various code snippets
+Flowcharts for various code snippets.
